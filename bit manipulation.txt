@@ -1,0 +1,95 @@
+Bitwise Operators and Manipulation:
+ 
+
+Bitwise operators are used to perform operations at the bit level of binary numbers. They manipulate individual bits, providing efficient ways to perform low-level operations and optimize memory usage.
+
+ 
+
+                                         
+
+ 
+
+Here are the commonly used bitwise operators:
+
+ 
+
+Bitwise AND (&): Performs a logical AND operation on each pair of corresponding bits. The result is 1 only if both bits are 1, otherwise, it is 0.
+
+ 
+
+Bitwise OR (|): Performs a logical OR operation on each pair of corresponding bits. The result is 1 if at least one bit is 1, otherwise, it is 0.
+
+ 
+
+Bitwise XOR (^): Performs a logical XOR (exclusive OR) operation on each pair of corresponding bits. The result is 1 if the bits are different, otherwise, it is 0.
+
+ 
+
+Bitwise NOT (~): Flips the bits of the operand, changing 0 to 1 and 1 to 0.
+
+ 
+
+Additional Bit Manipulation Techniques:
+ 
+
+Bitwise Shifts:
+ 
+
+Left Shift (<<): Shifts the bits of the operand to the left by a specified number of positions. This is equivalent to multiplying the number by 2 raised to the power of the shift count.
+
+ 
+
+Right Shift (>>): Shifts the bits of the operand to the right by a specified number of positions. This is equivalent to dividing the number by 2 raised to the power of the shift count.
+
+ 
+Bitwise Manipulation:
+ 
+
+Setting a Bit: Use the OR operator (|) with a bitmask to set a specific bit to 1.
+
+ 
+
+Clearing a Bit: Use the AND operator (&) with the complement of a bitmask to clear a specific bit to 0.
+
+ 
+
+Toggling a Bit: Use the XOR operator (^) with a bitmask to toggle a specific bit (change 1 to 0 or 0 to 1).
+
+ 
+
+Checking a Bit: Use the AND operator (&) with a bitmask to check the value of a specific bit (0 or 1).
+
+
+Example usage:
+ 
+
+unsigned int num = 12;  // Binary representation: 0000 1100
+
+// Bitwise AND to clear the 3rd bit (counting from right)
+unsigned int clearedNum = num & ~(1 << 2);  // Result: 0000 1000
+
+// Bitwise OR to set the 5th bit (counting from right)
+unsigned int setNum = num | (1 << 4);  // Result: 0001 1100
+
+// Bitwise XOR to toggle the 2nd bit (counting from right)
+unsigned int toggledNum = num ^ (1 << 1);  // Result: 0000 1110
+
+// Bitwise AND to check the 4th bit (counting from right)
+bool isSet = (num & (1 << 3)) != 0;  // Result: false (0)
+
+// Left shift to multiply by 2
+unsigned int multipliedNum = num << 1;  // Result: 0011 1000
+
+// Right shift to divide by 2
+unsigned int dividedNum = num >> 1;  // Result: 0000 0110
+
+
+
+
+
+
+
+
+
+Back tracking 
+

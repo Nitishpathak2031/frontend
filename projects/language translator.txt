@@ -1,0 +1,65 @@
+# importing modules
+import googletrans
+import speech_recognition
+import gtts
+import playsound
+import pyaudio
+
+
+# organizing speech recognition to work
+recognizer = speech_recognition.Recognizer()
+
+# getting input as source
+source_lang = input("Input the source language:")
+if source_lang not in googletrans.LANGUAGES:
+    print("Invalid source language")
+    exit()
+
+
+target_lang = input("Input the target language:")
+if target_lang not in googletrans.LANGUAGES:
+    print("Invalid target language")
+    exit()
+
+if source_lang == target_lang:
+    print("Source and target languages are the same")
+    exit()
+
+input_mode = input("Select input mode (1 for speech, 2 for text): ")
+if input_mode == '1':
+    try:
+        with speech_recognition.Microphone() as source:
+            print("Speak now")
+            voice = recognizer.listen(source, None, 3)
+            input_text = recognizer.recognize_google(voice, language=source_lang)
+            print("Input text:", input_text)
+    except speech_recognition.WaitTimeoutError:
+        print("Timeout waiting for audio input")
+        exit()
+    except speech_recognition.UnknownValueError:
+        print("Unable to recognize speech")
+        exit()
+elif input_mode == '2':
+    print("Enter the input text:")
+    input_text = input()
+else:
+    print("Invalid input mode")
+    exit()
+
+
+# organizing translator to work
+translator = googletrans.Translator()
+
+# translating input text
+for lang in [target_lang]:  # add more target languages if desired
+    if lang == source_lang:
+        print("Input text ({source_lang}): {input_text}")
+        continue
+    translation = translator.translate(input_text, dest=target_lang)
+    print(translation.text)
+    print("Translation to {lang}: {translation.text}")
+
+    # convert translation to audio and play
+    audio = gtts.gTTS(translation.text, lang=target_lang)
+    audio.save("translation_{lang}.mp3")
+    playsound.playsound("translation_{lang}.mp3")

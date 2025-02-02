@@ -1,0 +1,16 @@
+1 = HTML
+2 = CSS
+3 = TAILWIND CSS
+4 = JAVA SCRIPT
+5 = ES-6
+5 = REACT
+6 = Redux, Next js
+6 = MONGO DB
+7 = EXPRESS JSX
+8 = Node js
+
+
+// this is all about the software development part //
+
+s
+("srs,Agile Method,QA(Testing, Manual, Automation),SEO(Fast, meta tags, GMB, )")

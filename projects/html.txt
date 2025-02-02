@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="main">
+        <div id="hero">
+            <div id="nav">
+                <a href="#">wibro</a>
+                <h4>Menu+</h4>
+            </div>
+            <div id="heading">
+                <h1>product</h1>
+                <div class="blocktext">
+                    <h1 id="secondh1">Designer</h1>
+                    <h5>Based in toronto</h5>
+                </div>
+            </div>
+            <div id="smallheading">
+                <h5>available for freelance</h5>
+                <h5>work from 5march'</h5>
+            </div>
+            <div id="herofooter">
+                <a href="#">pewviously worked at google <i class="ri-arrow-right-up-line"></i> </a>
+                <a href="#">Btech</a>
+                <div id="iconset">circle <i class="ri-arrow-down-fill"></i></div>
+                <div id="iconset">circle</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+#me{
+    height :170px;
+    width: 170px;
+    object-fit: cover;
+}
+#mee{
+    height :170px;
+    width: 170px;
+    object-fit: cover;
+    display: block;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+#meee {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}

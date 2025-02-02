@@ -1,0 +1,572 @@
+// 30/10/24 //
+
+* Inheritence video leacture       <completed>
+* linked list first leacture       <completed>
+* daily coding ninja questions     <completed> 
+* leetcode 3 questions daily       <completed> 
+* dsa exam preparation             <completed>
+
+// 31/10/24 //
+
+* linked list leacture            <completed>
+* code ninja questions            <completed>
+
+// 1/11/24 // 
+
+* daily code ninja questions      <completed>
+* leetcode 2 so so questions      <completed> 
+* dsa unit 3 preparation          <completed>
+* linked list questions           <completed>
+
+// 2/11/24 //
+
+* code ninja daily questions      <completed>
+* leetcode atleast 2 questions    <completed>
+* dsa 4th unit preperation        <completed>
+* linked list leacture            <completed> 
+* linked list questions           <completed>
+
+// 3/11/24 //
+
+* Coding ninja daily questions    <completed>
+* leetcode 2 questions            <completed>
+* linked list revise insertion    <completed>
+
+// 4/11/24 //
+
+* coding ninja daily questions    <completed>
+
+// 5/11/24 //
+
+* coding ninja questions          <completed>
+* leetcode 4 questions            <completed>
+* deletion leacture               <completed>
+* linked list practice            <completed>
+
+// 6/11/24 //
+
+* daily codeninja questions       <completed>
+* leet 4 questions                <completed>
+* linkedList questions practice   <completed>
+
+// 7/11/24 //
+
+* daily codeNinja questions       <completed>
+* leetcode 1 complete 50 today    <completed>
+* linkedlist leacture             <completed>
+
+// 8/11/24 // 
+
+* Daily CodingNinja questions     <completed>
+    ("Becouse of heavy work in the collage
+      as a last day of fifth semester")
+
+// 9/11/24 //
+
+* daily CodeNinja questions       <completed>
+
+// 10/11/24 //
+
+* daily codeninja question        <completed>
+* SE and DAA preperation          <completed>
+
+// 11/11/24 //
+
+* daily codeninja questions       <completed>
+* leetode 1 questions             <completed>
+* hackerrank questions            <completed>
+
+// 12/11/24 //
+
+* daily codeninja questions       <completed>
+* solve leetcode questions        <completed>
+* solve hackerrank questions      <completed>
+* DAA all unit                    <completed>
+
+// 13/11/24 //
+
+* daily codeninja questions       <completed>
+
+// 14/11/24 //
+
+* daily code ninja questions      <completed>
+
+// 15/11/24 //
+
+* daily codeninja questions       <completed>
+* 1 gfg questions                 <completed>
+* 1 leetcode questions            <completed>
+
+// 16/11/24 //
+
+* daily codeninja questions       <completed>
+* 1 gfg questions                 <completed>
+* 1 leetcode questions            <completed>
+* DSA all unit preperation        <completed>
+* SE 2 unit preperation           <completed>
+
+//17/11/24 //
+
+* daily codeninja questions       <completed>
+
+//18/11/24 //
+
+* daily codeninja questions       <completed>
+
+//19/11/24 //
+
+* daily codeninja questions       <completed>
+
+//20/11/24 //
+
+* daily codeninja questions       <completed>
+
+//21/11/24 //
+
+* daily codeninja questions       <completed>
+
+ there is a gap because of the exam and pressure
+
+//28/11/24 //
+
+* daily codeninja questions       <completed>
+* gfg questions daily             <completed>
+* linkedlist leacture             <completed>
+* leetcode questions              <completed>
+* linkedlist leacture             <completed>
+
+// 29/11/24 //
+
+* linked list leacture            <completed>
+* codeninja questions             <completed>
+* leetcode questions              <completed>
+* gfg questions                   <completed>
+* linked list complete            <completed>
+* stack leacture                  <completed>
+
+// 4/12/24 //
+
+* leetcode 1 question             <completed>
+* daily question codeninja        <completed>
+* stack leacture                  <completed>
+
+// 6/12/24 //
+
+* daily codeninja questions       <completed>
+* stack leacture                  <completed>
+* gfg questions                   <completed> 
+
+// 7/12/24 //
+
+* gfg questions                   <completed>
+* stack leacture                  <completed>
+* bit manipulation                <completed>
+* daily code ninja                <completed>
+* leetcode question               <completed>
+
+// 8/12/24 //
+
+* gfg questions                   <completed>
+* stack leacture                  <completed>
+* daily codeninja                 <completed>
+* leetcode questions              <completed>
+
+// 9/12/24 //
+
+* gfg questions                   <completed>
+* stack leacture                  <completed>
+* daily codeninja                 <completed>
+* leetcode questions              <completed>
+* bit manipulation                <completed>
+* code cheaf questions            <completed>
+
+//10/12/24 //
+
+* gfg question                    <completed>
+* daily codeninja                 <completed>
+* leetcode question               <completed>
+* codecheaf question              <completed>
+* queue leacture                  <completed>
+* html revision                   <completed>
+
+// 11/12/24 //
+
+* gfg question                    <completed>
+* leetcode question               <completed>
+* codingNinja questions           <completed>
+* codechef questions              <completed>
+* queue leacture                  <completed>
+
+// 12/12/24 //
+
+* gfg questions                   <completed>
+* leetcode questions              <completed>
+* coding ninja questions          <completed>
+* codechef questions              <completed>
+* queue leacture                  <completed>
+* bit manipulation                <Completed>
+* html revision                   <completed>
+
+// 13/12/24 //
+
+* gfg questions                   <completed>
+* leetcode questions              <completed>
+* coding ninja questions          <completed>
+* code chef questions             <completed>
+* css revision                    <completed>
+
+// 14/12/24 //
+
+* gfg questions                   <completed>
+* leetcode questions              <completed>
+* code ninja questions            <completed>
+* codechef questions              <completed>
+
+// 15/12/24 //
+
+* gfg questions                   <completed>
+* leetcode questions              <completed>
+* code ninja question             <completed>
+* codechef question               <completed>
+* queue leacture                  <completed>
+* css revision                    <completed>
+
+// 16/12/24 //
+
+* queue complete                  <completed>
+* tree leacture                   <completed>
+* code ninja questions            <completed>
+* code chef questions             <completed>
+* gfg questions                   <completed>
+* leetcode question               <completed>
+* css revision                    <completed>
+
+// 20/12/24 //
+                    
+* sql                             <completed>
+* figma                           <completed>
+
+// 21/12/24 //
+
+* tree leacture                   <completed>
+* leetcode questions              <completed>
+* gfg questions                   <completed>
+* code ninja questions            <completed>
+
+// 22/12/24 //
+
+* tree leacture                   <completed>
+* codeninja questions             <completed>
+* leetcode questions              <completed>
+* gfg questions                   <completed>
+* web leacture                    <completed>
+* javaScript leacture             <completed>
+* web project working             <completed>
+
+// 23/12/24 //
+
+* tree leacture                   <completed>
+* java script leacture 1          <completed>
+* web leacture                    <completed>
+* leetcode questions              <completed>
+* gfg questions                   <completed>
+* codeNinja questions             <completed>
+* web project working             <completed>
+
+// 24/12/24 //
+
+* tree leacture                   <completed>
+* java script leacture 2          <completed>
+* web leacture                    <completed>
+* leetcode questions              <completed>
+* gfg questions                   <completed>
+* codeNinja questions             <completed>
+* web project 1 & 2               <completed>
+
+// 25/12/24 //
+
+* tree leacture                  <completed>
+* javaScript leacture 3          <completed>
+* web leacture                   <completed>
+* leetcode questions             <completed>
+* gfg questions                  <completed>
+* codeNinja questions            <completed>
+
+// 26/12/24 //
+
+* Tree leacture                  <completed>
+* Javascript leacture            <completed>
+* Web hTML & CSS properties      <completed>
+* CodeNinja questions            <completed>
+* sql leacture                   <completed>
+
+// 27/12/24 //
+
+* binary tree leacture           <completed>
+* javaScript leacture            <completed>
+* project selection              <completed>
+
+// 29/12/24 //
+
+* binary tree leacture           <completed>
+* javascript leacture            <completed>
+* codeNinja mcq                  <completed>
+* leetcode question              <completed>
+* gfg question                   <completed>
+
+// 30/12/24 //
+
+* binary tree leacutre           <completed>
+* chai aur javascript            <completed>
+* leetcode question              <completed>
+* gfg questions                  <completed>
+* codeNinja questions            <completed>
+
+// 1/1/25 //
+
+* binary tree leacutre           <completed>
+* chai aur javascript            <completed>
+* codeNinja questions            <completed>
+* leetcode question              <completed>
+* gfg questions                  <completed>
+* DOM javascript                 <completed>
+
+// 2/1/25 //
+
+* codeNinja questions            <completed>
+* leetcode questions             <completed>
+* gfg questions                  <completed>
+
+// 3/1/25 //
+
+* codeNinja questions            <completed>
+* leetcode questions             <completed>
+* gfg questions                  <completed>
+* DOM javaScript                 <completed>
+* javascript github              <completed>
+
+// 4/1/25 //
+
+* linux commands                 <completed>
+* chai aur javaScript            <completed>
+* javascript leacture            <completed>
+* sliding window leacture        <completed>
+* leetcode questions             <completed>
+* gfg questions                  <completed>
+* codeNinja questions            <completed>
+* stone paper game work          <completed>
+
+// 5/1/25 //
+
+* git-github                     <completed>
+
+
+// 6/1/25 //
+
+* recursion lacture              <completed>
+
+// 7/1/25 //
+
+* recursion lacture              <completed>
+* javascript leacture            <completed>
+* stone paper game work          <completed>
+* codeninja questions            <completed>
+* gfg questions                  <completed>
+* leetcode questions             <completed>
+* git-github                     <completed>
+
+// 8/1/25 //
+
+* recursion leacture             <completed>
+* recursion leacture             <completed>
+* codeNinja questions            <completed>
+* gfg questions                  <completed>
+* leetCode questions             <completed>
+* git-github leacture            <completed>
+
+// 9/1/25 //
+
+* codeNinja questions            <completed>
+* gfg questions                  <completed>
+* leetcode questions             <completed>
+* merge sorting                  <completed>
+* project 2.0                    <completed>
+* HTML revise                    <completed>
+* codestdio SDE sheet            <completed>
+
+// 10/1/25 //
+
+* codeNinja questions            <completed>
+* gfg questions                  <completed>
+* codeStdio questions            <completed>
+* leetCode questions             <completed>
+* merge sort questions           <Completed>
+* javascript chai aur code       <completed>
+* HTML revise                    <completed>
+
+// 11/1/25 //
+
+* codeNinja questions            <completed>
+* codeStdio questions            <completed>
+* leetCode questions             <completed>
+* HTML done by course            <completed>
+* javaScript data and time       <completed>
+
+// 12/1/25 //
+
+* codeNinja questions            <completed>
+* codestdio questions            <completed>
+* gfg questions                  <completed>
+* leetCode questions             <completed>
+* css revise                     <completed>
+* javaScript array               <completed>
+* node leacture no 5             <completed>
+* project 0                      <completed>
+* connect project to github      <completed>
+
+// 13/1/25 //
+
+* codeNinja MCQ                  <completed>
+* codeStdio questions            <completed>
+* gfg questions                  <completed>
+* leetCode questions             <completed>
+* css done by course             <completed>
+* javaScript till function       <completed>
+* node leacture till 10          <completed>
+* project 0.                     <completed>
+
+// 14/1/25 //
+
+* codeNinja questions            <completed>
+* codeStdio questions            <completed>
+* gfg questions                  <completed>
+* javaScript core                <completed>
+* javascript till (iife)         <completed>
+* node leacture till 11          <completed>
+
+// 15/1/25 //
+
+* codeNinja questions            <completed>
+* javaScript core                <completed>
+
+// 16/1/25 //
+
+* codeNinja questions            <completed>
+* javaScript intermidiate        <completed>
+* resume building                <completed>
+
+// 17/1/25 //
+
+                         exam
+* big data prepare               <completed>
+* Computer Architature           <completed>
+
+// 18/1/25 //
+
+* javascript 2 leactures         <completed>
+* codeNinja SDE questions        <completed>
+* codeNinja mcqs                 <completed>
+* gfg questions                  <completed>
+* leetCode questions             <completed>
+* node.js leacture               <completed>
+
+
+// 24/1/25 // 
+
+* codeNinja questions           <completed>
+* data visulization             <completed>
+* data sampling                 <completed>
+
+// 25 to 30 there is a problem study done but 
+   not marked
+* js 40 leacture comleted
+* 2 dsa questions
+* react 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

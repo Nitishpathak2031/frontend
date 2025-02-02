@@ -1,0 +1,36 @@
+* LONGEST SUBARRAYWITHSUM K
+
+int longestSubarrayWithSumK(vector<int> a, long long k) {
+    // Write your code here
+    int maxlength = 0;
+    for(int i = 0;i<a.size();i++){
+        int currentSum =0;
+        for(int j =i;j<a.size();j++){
+            currentSum +=a[j];
+            if(currentSum == k){
+             	 maxlength = max(maxlength,j-i+1);
+            }
+        }
+    }
+    return maxlength;
+}
+
+
+Q a population consist of 5 no {2,3,6,8,11} consider all possible sample of size 2 which can be drawn from the population with replacement
+
+   1 mean of population
+   2 standend devation of population 
+   3 mean of sampling distribution of means
+   
+
+
+sample size
+
+mean square error regression line given || you have to find regression line
+
+sampling distribution || 
+
+probablisic distribution || non probiblistic
+
+
+
